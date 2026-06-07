@@ -1,5 +1,0 @@
-LS - mostra o que tem onde estamos
-LS-A- mostra os arquivos ocultos
-CD nome do local - abre o diretorio que colocamos
-pwd - mostra o caminho real que voce esta
-mkdir "nome da pasta" - cria a pasta
